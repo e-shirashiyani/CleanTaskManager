@@ -19,6 +19,7 @@
 		B8E2FB2229CCC5F600DFEC45 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2129CCC5F600DFEC45 /* Task.swift */; };
 		B8E2FB2429CCC69200DFEC45 /* TaskListModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2329CCC69200DFEC45 /* TaskListModels.swift */; };
 		B8E2FB2629CD56D600DFEC45 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2529CD56D600DFEC45 /* TaskListViewController.swift */; };
+		B8E2FB2829CD6E2D00DFEC45 /* TaskListInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2729CD6E2D00DFEC45 /* TaskListInteractor.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		B8E2FB2129CCC5F600DFEC45 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		B8E2FB2329CCC69200DFEC45 /* TaskListModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListModels.swift; sourceTree = "<group>"; };
 		B8E2FB2529CD56D600DFEC45 /* TaskListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListViewController.swift; sourceTree = "<group>"; };
+		B8E2FB2729CD6E2D00DFEC45 /* TaskListInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListInteractor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				B8E2FB2129CCC5F600DFEC45 /* Task.swift */,
 				B8E2FB2329CCC69200DFEC45 /* TaskListModels.swift */,
 				B8E2FB2529CD56D600DFEC45 /* TaskListViewController.swift */,
+				B8E2FB2729CD6E2D00DFEC45 /* TaskListInteractor.swift */,
 			);
 			path = TaskManager;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 				B8E2FAF429CCC5E500DFEC45 /* SceneDelegate.swift in Sources */,
 				B8E2FB2429CCC69200DFEC45 /* TaskListModels.swift in Sources */,
 				B8E2FB2629CD56D600DFEC45 /* TaskListViewController.swift in Sources */,
+				B8E2FB2829CD6E2D00DFEC45 /* TaskListInteractor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
