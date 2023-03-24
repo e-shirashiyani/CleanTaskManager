@@ -21,6 +21,7 @@
 		B8E2FB2629CD56D600DFEC45 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2529CD56D600DFEC45 /* TaskListViewController.swift */; };
 		B8E2FB2829CD6E2D00DFEC45 /* TaskListInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2729CD6E2D00DFEC45 /* TaskListInteractor.swift */; };
 		B8E2FB2A29CD6EE200DFEC45 /* TaskListPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2929CD6EE200DFEC45 /* TaskListPresenter.swift */; };
+		B8E2FB2C29CD6FC900DFEC45 /* TaskListRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8E2FB2B29CD6FC900DFEC45 /* TaskListRouter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		B8E2FB2529CD56D600DFEC45 /* TaskListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListViewController.swift; sourceTree = "<group>"; };
 		B8E2FB2729CD6E2D00DFEC45 /* TaskListInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListInteractor.swift; sourceTree = "<group>"; };
 		B8E2FB2929CD6EE200DFEC45 /* TaskListPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListPresenter.swift; sourceTree = "<group>"; };
+		B8E2FB2B29CD6FC900DFEC45 /* TaskListRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskListRouter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				B8E2FB2529CD56D600DFEC45 /* TaskListViewController.swift */,
 				B8E2FB2729CD6E2D00DFEC45 /* TaskListInteractor.swift */,
 				B8E2FB2929CD6EE200DFEC45 /* TaskListPresenter.swift */,
+				B8E2FB2B29CD6FC900DFEC45 /* TaskListRouter.swift */,
 			);
 			path = TaskManager;
 			sourceTree = "<group>";
@@ -277,6 +280,7 @@
 				B8E2FB2A29CD6EE200DFEC45 /* TaskListPresenter.swift in Sources */,
 				B8E2FAF629CCC5E500DFEC45 /* ViewController.swift in Sources */,
 				B8E2FAF229CCC5E500DFEC45 /* AppDelegate.swift in Sources */,
+				B8E2FB2C29CD6FC900DFEC45 /* TaskListRouter.swift in Sources */,
 				B8E2FAF429CCC5E500DFEC45 /* SceneDelegate.swift in Sources */,
 				B8E2FB2429CCC69200DFEC45 /* TaskListModels.swift in Sources */,
 				B8E2FB2629CD56D600DFEC45 /* TaskListViewController.swift in Sources */,
